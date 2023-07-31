@@ -48,7 +48,7 @@ app.get('/', (req, res) => {
       </h1>
   </body>
   </html>`
-  res.send(html);
+  res.send("api-duofinder");
 });
 
 app.get('/games', async (req, res) => {

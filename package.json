@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "start": "node src/server.ts",
+  "scripts": {    
     "build": "tsc",
-    "dev": "tsnd --exit-child src/server.ts"
+    "dev": "tsnd --exit-child src/server.ts",
+    "vercel-start": "node build/server.js"
   },
   "keywords": [],
   "author": "",

@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
   <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <title>Document</title>
+      <title>api-duofinder</title>
       <style type="text/css">
           body {
               width: 100vw;

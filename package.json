@@ -6,8 +6,7 @@
   "scripts": {    
     "dev-build": "tsc",
     "vercel-build":"npx prisma migrate deploy",
-    "dev": "tsnd --exit-child src/server.ts",
-    "start": "node build/server.js"
+    "dev": "tsnd --exit-child src/server.ts"    
   },
   "keywords": [],
   "author": "",

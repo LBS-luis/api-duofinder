@@ -1,3 +1,5 @@
+![image](https://github.com/luis-lbs/api-duofinder/assets/53980283/56386595-c011-435e-a0b8-b7c071f7eed0)
+
 # Duo Finder API
 ### Overview
 Duo Finder API is a backend for the duo finder project that provides a set of APIs built with Express.js and Node.js using TypeScript. It leverages Prisma for database operations. The project is hosted on Vercel, making it easily accessible and scalable.

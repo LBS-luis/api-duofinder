@@ -54,6 +54,8 @@ TypeScript: A typed superset of JavaScript, providing static typing and improved
 
 Vercel: A cloud platform for serverless deployment and hosting.
 
+Neon.tech: A cloud postgres database provider.
+
 ##
 
 ### Deployment
